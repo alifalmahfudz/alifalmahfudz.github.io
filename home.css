@@ -69,7 +69,6 @@
   background-size: cover;
   justify-content: center;
   background-color: #f1f1f1;
-  background-image: url("public/playground_assets/pexels-markus-distelrath-3-1500w.jpg");
   background-position: center;
 }
 .home-hero {
@@ -131,7 +130,7 @@
   flex-direction: row;
 }
 .home-link2 {
-  color: var(--dl-color-gray-white);
+  color: rgb(4, 4, 4);
   font-size: 24px;
   align-self: flex-start;
   font-family: Overpass;
@@ -140,7 +139,7 @@
   text-decoration: none;
 }
 .home-link3 {
-  color: var(--dl-color-gray-white);
+  color: rgb(4, 4, 4);
   font-size: 24px;
   align-self: flex-start;
   font-family: Overpass;
@@ -149,7 +148,7 @@
   text-decoration: none;
 }
 .home-link4 {
-  color: var(--dl-color-gray-white);
+  color: rgb(4, 4, 4);
   font-size: 24px;
   align-self: flex-start;
   font-family: Overpass;
